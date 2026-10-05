@@ -1,9 +1,3 @@
-
----
-
-# README 2 — `Credit-Card-Customer-Analysis`
-
-```markdown
 # 💳 Credit Card Customer Analytics & Churn Analysis | Power BI
 
 An interactive **4-page Power BI dashboard** built to analyze credit card customer behavior, spending, payment activity, credit utilization, churn, retention, and customer risk across **2021–2026**.
